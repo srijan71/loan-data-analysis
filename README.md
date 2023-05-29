@@ -1,5 +1,5 @@
 # loan-data-analysis
-In this project we have successfully managed to 
+In this project I have successfully managed to 
 1) Clean the dataset
 2) Preprocess the dataset
 3) Prepare the dataset for further analysis
